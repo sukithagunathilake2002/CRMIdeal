@@ -8,6 +8,8 @@ use App\Models\Enquiry;
 use App\Models\Vehicle;
 use Illuminate\Http\Request;
 use Illuminate\Validation\Rule;
+use Illuminate\View\View;
+
 
 class BookingController extends Controller
 {
